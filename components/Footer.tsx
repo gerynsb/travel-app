@@ -84,4 +84,6 @@ const FooterColumn = ({ title, children }: FooterColumnProps) => {
   )
 }
 
+// finishing App
+
 export default Footer
